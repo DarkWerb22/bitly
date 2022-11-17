@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 ### Как запустить
 Для запуска введите команду:
-main.python 
+`main.python ваша ссылка`
 
 ### Цель проекта
 
